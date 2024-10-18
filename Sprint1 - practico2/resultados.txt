@@ -1,0 +1,150 @@
+node "D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01\Sprint1 - practico2\path-ejemplo\index.mjs"
+
+Debugger attached.
+Directorio base: ./data
+Nombre del Archivo: example
+Extensión del Archivo: .txt
+Nueva Ruta:  \user\docs\newfile.txt      
+Waiting for the debugger to disconnect...
+PS D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01> 
+
+
+
+PS D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01> node "D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01\Sprint1 - practico2\os-ejemplo\index.mjs"
+Debugger attached.
+Arquitectura:  x64
+Plataforma:  win32
+Memoria total:  17093066752
+Memoria Libre:  2156765184 
+Informacion del CPU:  [    
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 4980281,
+      nice: 0,
+      sys: 4041750,
+      idle: 80479078,
+      irq: 957531
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 5915687,
+      nice: 0,
+      sys: 2534078,
+      idle: 81051328,
+      irq: 18234
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 3917859,
+      nice: 0,
+      sys: 1427078,
+      idle: 84156078,
+      irq: 16812
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 2077046, nice: 0, sys: 774750, idle: 86649203, irq: 8359 }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 6365437,
+      nice: 0,
+      sys: 2247875,
+      idle: 80887687,
+      irq: 13859
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 5809171,
+      nice: 0,
+      sys: 2337171,
+      idle: 81354671,
+      irq: 16812
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 3305671, nice: 0, sys: 889734, idle: 85305609, irq: 12531 }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 1356140, nice: 0, sys: 577296, idle: 87567578, irq: 8734 }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 3093593,
+      nice: 0,
+      sys: 3115031,
+      idle: 83292375,
+      irq: 156312
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: {
+      user: 2947484,
+      nice: 0,
+      sys: 2293828,
+      idle: 84259687,
+      irq: 18312
+    }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 2410031, nice: 0, sys: 716734, idle: 86374234, irq: 34390 }
+  },
+  {
+    model: 'AMD Ryzen 5 5600X 6-Core Processor             ',
+    speed: 3693,
+    times: { user: 1682140, nice: 0, sys: 765171, idle: 87053671, irq: 35765 }
+  }
+]
+Waiting for the debugger to disconnect...
+PS D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01> 
+
+
+Waiting for the debugger to disconnect...                      node "D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01\Sprint1 - practico2\fs-ejemplo\index.mjs"
+Debugger attached.
+Waiting for the debugger to disconnect...
+file:///D:/2024/Modulo%203/NodoTecnologico_FullStak_Modulo3_Sprint01/Sprint1%20-%20practico2/fs-ejemplo/index.mjs:5
+    if (err) throw err;
+             ^
+
+[Error: ENOENT: no such file or directory, open 'D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01\data\example.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\2024\\Modulo 3\\NodoTecnologico_FullStak_Modulo3_Sprint01\\data\\example.txt'     
+}
+
+Node.js v20.18.0
+
+
+
+
+node "D:\2024\Modulo 3\NodoTecnologico_FullStak_Modulo3_Sprint01\Sprint1 - practico2\events-ejemplo\index.mjs"
+Debugger attached.
+ ¡Hola Mundo!
+Waiting for the debugger to disconnect...
+
