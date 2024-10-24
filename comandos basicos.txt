@@ -1,0 +1,7 @@
+node --version
+v20.18.0
+
+npm --version
+10.8.2
+
+

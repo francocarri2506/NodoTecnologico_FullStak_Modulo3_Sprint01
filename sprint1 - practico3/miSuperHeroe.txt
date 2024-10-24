@@ -1,0 +1,15 @@
+[
+    {
+        "id": 8, 
+        "nombreSuperHeroe": "Thor", 
+        "nombreReal": "Thor", 
+        "nombreSociedad": "Dios del trueno",
+        "edad": 500, 
+        "planetaOrigen": "Asgard",
+        "debilidad": "yeim foster(expareja con cancer)",
+        "poder": ["Dios", "Martillo"], 
+        "habilidadEspecial": "Trueno", 
+        "aliado": ["Los vengadores","guardianes de la galaxia"], 
+        "enemigo": ["loki", "thanos"]
+    }
+]
