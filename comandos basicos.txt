@@ -4,4 +4,16 @@ v20.18.0
 npm --version
 10.8.2
 
+npm init 
+npm install  
+npm update
 
+npm start
+npm test
+
+npm audit    
+npm outdated
+
+
+instalacion de express:
+npm install express
