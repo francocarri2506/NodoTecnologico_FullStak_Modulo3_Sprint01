@@ -1,0 +1,15 @@
+{
+  "name": "sprint1-practico4",
+  "version": "1.0.0",
+  "description": "Desarrollo del práctico n°4 del módulo 3 de la diplomatura  desarrollo FullStack del Nodo Tecnológico de Catamarca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

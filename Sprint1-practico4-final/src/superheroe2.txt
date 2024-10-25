@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 31,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Súper fuerza",
+      "agilidad"
+    ],
+    "habilidadEspecial": "Redes Telarañas",
+    "aliado": [
+      "Ironam"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironam",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Láseres"
+    ],
+    "habilidadEspecial": "Ingeniería Avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 100,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "pepe",
+    "nombreReal": "pepe pepe",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 28,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "pepe",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "pepe"
+    ]
+  }
+]
